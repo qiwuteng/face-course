@@ -4,6 +4,31 @@ deeplearning class
 ## 存放数据集
 在目录中创建 data 文件夹，将解压好的 FS2K 数据集放入 data 文件夹中。目录在 config.py 文件中，可以自行修改
 
+```
+face-course
+├── data
+│       ├── FS2K
+│               ├── photo
+│                        ├── photo1
+│                        ├── photo2
+│                        └── photo3
+│               ├── sketch
+│                         ├── sketch1
+│                         ├── sketch2
+│                         └── sketch3
+│               ├── anno_test.json
+│               ├── anno_train.json
+│               └── README.pdf
+├── FS2K.py
+├── README.md
+├── config.py
+├── model.py
+├── test.py
+└── train.py
+
+```
+
+
 ## 环境配置
 pip install sklearn
 pip install matplotlib
