@@ -2,7 +2,7 @@
 deeplearning class
 
 ## 存放数据集
-将解压好的 FS2K 数据集放入 data 文件夹中。目录在 config.py 文件中，可以自行修改
+在目录中创建 data 文件夹，将解压好的 FS2K 数据集放入 data 文件夹中。目录在 config.py 文件中，可以自行修改
 
 ## 环境配置
 pip install sklearn
