@@ -8,17 +8,17 @@ deeplearning class
 face-course
 ├── data
 │       ├── FS2K
-│               ├── photo
-│                        ├── photo1
-│                        ├── photo2
-│                        └── photo3
-│               ├── sketch
-│                         ├── sketch1
-│                         ├── sketch2
-│                         └── sketch3
-│               ├── anno_test.json
-│               ├── anno_train.json
-│               └── README.pdf
+│              ├── photo
+│                      ├── photo1
+│                      ├── photo2
+│                      └── photo3
+│              ├── sketch
+│                      ├── sketch1
+│                      ├── sketch2
+│                      └── sketch3
+│              ├── anno_test.json
+│              ├── anno_train.json
+│              └── README.pdf
 ├── FS2K.py
 ├── README.md
 ├── config.py
